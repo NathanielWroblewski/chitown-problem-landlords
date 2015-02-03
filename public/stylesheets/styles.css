@@ -11,7 +11,11 @@ html, body {
 .container {
   width: 100%px;
   margin: 0 auto;
-  padding: 50px 0;
+  padding: 15px 0;
+}
+
+.grey {
+  color: #aaa;
 }
 
 #map {
@@ -21,6 +25,7 @@ html, body {
 
 h1, h3 {
   font-family: 'Montserrat', sans-serif;
+  line-height: 1.1em;
 }
 
 .info {
@@ -30,8 +35,13 @@ h1, h3 {
   margin-left: 15px;
 }
 
+.info p {
+  line-height: 1.1em;
+}
+
 p {
   font-family: 'Libre Baskerville', serif;
+  line-height: 1.7em;
 }
 
 img[src="http://maps.gstatic.com/mapfiles/api-3/images/mapcnt3.png"] {
