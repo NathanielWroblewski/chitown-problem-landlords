@@ -1,7 +1,6 @@
 # Problem Landlords in Chitown
 
-![Screenshot](https://raw.githubusercontent.com/NathanielWroblewski/chitown-problem-landlords/master/screenshot.png)
-
+![Screenshot](https://raw.githubusercontent.com/NathanielWroblewski/chitown-problem-landlords/gh-pages/screenshot.png)
 ### To run locally ###
 
 ```sh
