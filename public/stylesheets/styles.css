@@ -1,0 +1,50 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: white;
+  color: #444;
+  text-align: center;
+}
+
+.container {
+  width: 100%px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+#map {
+  height: 500px;
+  width: 100%;
+}
+
+h1, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.info {
+  paddin: 0;
+  margin: 0;
+  text-align: center;
+  margin-left: 15px;
+}
+
+p {
+  font-family: 'Libre Baskerville', serif;
+}
+
+img[src="http://maps.gstatic.com/mapfiles/api-3/images/mapcnt3.png"] {
+  display: none;
+  width: 0;
+}
+
+.source {
+  font-size: 0.7em;
+  padding-top: 15px;
+}
+
+.source a {
+  text-decoration: none;
+  color: #ddd;
+}
